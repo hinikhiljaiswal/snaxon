@@ -1,0 +1,11 @@
+{
+  "name": "snaxon-store",
+  "private": true,
+  "workspaces": ["apps/*"],
+  "scripts": {
+    "dev": "npm run dev --workspace=@snaxon/web",
+    "dev:web": "npm run dev --workspace=@snaxon/web",
+    "dev:api": "npm run start:dev --workspace=@snaxon/api",
+    "build": "npm run build --workspaces"
+  }
+}
