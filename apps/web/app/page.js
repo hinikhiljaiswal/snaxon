@@ -65,7 +65,7 @@ export default function Home() {
 
     <section className="story section" id="story"><p className="eyebrow">From the heart of India</p><h2>Real ingredients. <em>Really good</em> snacks.</h2><p>At Snaxon, we believe better snacking starts with keeping things simple. That’s why we let the natural goodness of makhana do the talking — then give it just the right amount of crunch.</p><a href="#shop" className="text-link">Our simple promise <span>→</span></a></section>
 
-    <section className="contact section" id="contact"><div><p className="eyebrow">Get in touch</p><h2>We’d love to<br /><em>hear from you.</em></h2></div><address><p><strong>Proprietor</strong><br />Archie Singh</p><p><strong>Registered address</strong><br />Snaxon<br />Flat no. 404, Tower No. 14<br />Lotus Boulevard, Sector 100<br />Noida – 201301</p></address></section>
+    <section className="contact section" id="contact"><div><p className="eyebrow">Get in touch</p><h2>We’d love to<br /><em>hear from you.</em></h2></div><address><p><strong>Proprietor</strong><br />Archie Singh</p><p><strong>Contact</strong><br /><a href="tel:+916203936210">+91 62039 36210</a><br /><a href="mailto:archie21347@gmail.com">archie21347@gmail.com</a></p><p><strong>GSTIN</strong><br />09EXOPS3020R1ZL</p><p><strong>Registered address</strong><br />Snaxon<br />Flat no. 404, Tower No. 14<br />Lotus Boulevard, Sector 100<br />Noida – 201301</p></address></section>
 
     <footer><a className="brand" href="#top">SNAX<span>ON</span><i /></a><p>Pure goodness in every bite.</p><div><a href="#shop">Shop</a><a href="#why">Benefits</a><a href="#story">Story</a><a href="#contact">Contact</a></div><small>© 2026 Snaxon Foods. Made for happier munching.</small></footer>
 
